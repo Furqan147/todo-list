@@ -1,5 +1,5 @@
-#TODO List
+# TODO List
 A simple app to manage your daily tasks.
 
-##Features
+## Features
 * List of daily tasks.
